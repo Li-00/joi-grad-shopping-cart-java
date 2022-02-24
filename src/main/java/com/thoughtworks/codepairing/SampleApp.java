@@ -8,6 +8,7 @@ import com.thoughtworks.codepairing.model.Order;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class SampleApp {
     public static void main(String[] args) {
         Product product1 = new Product(10.0, "DIS_10_PRODUCT1", "product 1");
